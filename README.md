@@ -1,4 +1,4 @@
-# My (Matt) person build of dwm
+# Matts personal build of dwm
 
 
 dwm - dynamic window manager
